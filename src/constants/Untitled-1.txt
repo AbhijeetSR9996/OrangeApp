@@ -1,0 +1,26 @@
+
+Screen
+    Auth
+        Before Login
+    App
+        After Login
+        TabScreen
+            DashboardScreen.js
+            s2
+            s2
+        
+Nav
+    tab
+    stack
+
+
+index > app.js > 
+
+navigation
+    AuthNavigation > Before Login Screen route
+    AppNavigation   > After Login
+        TabScreen
+        Stack
+            DashboardScreen
+            TabScreen
+
