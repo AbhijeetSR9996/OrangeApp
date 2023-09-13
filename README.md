@@ -2,8 +2,8 @@
 An android-based Hotel Management application based on React Technology.
 
 # Some of the top Features used in this project are :-
--> Multiple modals in same screen(Login)
--> Background Image Wobbling Issue fixed (using Manifest feature)
+1. Multiple modals in same screen(Login)
+2. Background Image Wobbling Issue fixed (using Manifest feature)
 -> Circular Ring implementation(dynamic)
 -> Checkbox(Custom) implementation(using RNElements) 
 -> Uploading filename display(in Text)
